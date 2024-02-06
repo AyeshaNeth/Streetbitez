@@ -26,7 +26,7 @@ const DriverProfile = () => {
       {driverProfile ? (
         <div>
           <p>
-            <strong>Username:</strong> {driverProfile.username}
+            <strong>Usrname:</strong> {driverProfile.username}
           </p>
           <p>
             <strong>Email:</strong> {driverProfile.email}
